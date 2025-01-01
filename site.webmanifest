@@ -1,7 +1,7 @@
 {
   "name": "Pradeep App", 
     "short_name": "Pradeep Bio",
-    "start_url": ".",
+    "start_url": "./index.html",
     "theme_color": "#4287f5",
     "background_color": "#ffffff",
     "display": "standalone",
